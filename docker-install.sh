@@ -30,4 +30,4 @@ sudo apt-get update
 sudo apt-get install docker-ce docker-ce-cli containerd.io docker-buildx-plugin docker-compose-plugin -y
 
 # rm install.sh
-rm install.sh
+rm docker-install.sh
